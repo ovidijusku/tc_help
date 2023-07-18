@@ -1,2 +1,2 @@
 # tc_help
-Turing college presentation
+Turing college examples
